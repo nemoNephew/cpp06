@@ -8,6 +8,7 @@
 #include <cctype>
 #include <climits>
 #include <cerrno>
+#include <cfloat>
 
 class ScalarConverter {
     private:

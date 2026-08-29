@@ -6,6 +6,8 @@
 #include <cstdlib>
 #include <string>
 #include <cctype>
+#include <climits>
+#include <cerrno>
 
 class ScalarConverter {
     private:
